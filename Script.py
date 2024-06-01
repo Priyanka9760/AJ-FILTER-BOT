@@ -206,10 +206,15 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
-
-<b> Size ⚙️: {file_size}</b>""" 
-
+    CAPTION = """<b>{file_name}
+    
+  ╔══════ JOIN WITH US ══════╗
+  ▫️<a href=https://t.me/Aj_creations_ajay1> DAILY UPDATES </a>     ▫️<a href=https://t.me/Aj_creations_ajay> BACK-UP </a>
+  ▫️<a href=https://t.me/Aj_Movies_Request> MOVIES REQUIRED & CHAT GROUP </a>
+  ╚══════ JOIN WITH US ══════╝
+Our Main Channel ID :
+@Aj_creations_ajay , @Aj_creations_ajay1""" 
+    
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
 
